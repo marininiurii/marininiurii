@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Iurii! 
 
-⚡️ Fun fact: I'm a huge fan of Harry Potter
+#### A Technical supervision engineer by day ☼ and a A Frontend Developer by night ☾
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=marininiurii&show_icons=true&theme=bear" width="400"> 
