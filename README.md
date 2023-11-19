@@ -1,4 +1,4 @@
-### Hi there 👋 I am Iurii ! 
+### Hi there 👋 
 
 #### A Technical supervision engineer by day ☼ and a A Frontend Developer by night ☾
 
