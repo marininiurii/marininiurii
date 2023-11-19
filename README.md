@@ -2,7 +2,8 @@
 
 ### Hi there 👋 I'm Iurii
 
-#### A Technical supervision engineer by day ☼ and a A Frontend Developer by night ☾
+#### A Technical supervision engineer by day ☼ 
+and a Frontend Developer by night ☾
 
 Student at [Hexlet](https://ru.hexlet.io/u/matisse)
 
