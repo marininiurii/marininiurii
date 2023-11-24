@@ -7,7 +7,7 @@
 
 Student at [Hexlet](https://ru.hexlet.io/u/matisse)
 
-<img src="https://www.codewars.com/users/matisse/badges/smal" />
+<a href="https://www.codewars.com/users/matisse/badges/smal"></a>
 
 
 
