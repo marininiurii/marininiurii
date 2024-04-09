@@ -4,7 +4,7 @@
 
 #### Intern Frontend Developer at [Fortech](https://fortech.dev/)
 
-Student at [Hexlet](https://ru.hexlet.io/u/matisse)
+Student at [Hexlet](https://ru.hexlet.io/u/matisse/)
 
 Сontact me: marininpost@gmail.com
 
