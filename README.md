@@ -8,7 +8,7 @@ Student at [Hexlet](https://ru.hexlet.io/u/matisse/)
 
 Сontact me: marininpost@gmail.com
 
-[![image](https://www.codewars.com/users/matisse/badges/small)](https://www.codewars.com/users/matisse)
+[image](https://www.codewars.com/users/matisse/badges/small)
 
 
 
