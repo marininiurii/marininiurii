@@ -2,9 +2,9 @@
 
 ### Hi there 👋 I'm Iurii
 
-#### Intern Frontend Developer at [Fortech](https://fortech.dev/)
+#### Former intern at [Fortech](https://fortech.dev/)
 
-Student at [Hexlet](https://ru.hexlet.io/u/matisse/)
+Alumnus student at [Hexlet](https://ru.hexlet.io/u/matisse/)
 
 Сontact me: marininpost@gmail.com
 
