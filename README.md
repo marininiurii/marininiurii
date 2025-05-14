@@ -4,7 +4,7 @@
 
 #### Former intern at [Fortech](https://fortech.dev/)
 
-Alumnus student at [Hexlet](https://ru.hexlet.io/u/matisse/)
+Alumnus at [Hexlet](https://ru.hexlet.io/u/matisse/)
 
 Сontact me: marininpost@gmail.com
 
