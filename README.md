@@ -2,9 +2,6 @@
 
 ### Hi there 👋 I'm Iurii
 
-#### Former intern at [Fortech](https://fortech.dev/)
-
-Alumnus at [Hexlet](https://ru.hexlet.io/u/matisse/)
 
 Сontact me: marininpost@gmail.com
 
